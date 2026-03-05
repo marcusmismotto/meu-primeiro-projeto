@@ -22,7 +22,7 @@ Este projeto foi criado para aprender e praticar os fundamentos de versionamento
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/meu-primeiro-projeto.git
+   git clone https://github.com/marcusmismotto/meu-primeiro-projeto.git
    ```
 
 2. Entre na pasta:
